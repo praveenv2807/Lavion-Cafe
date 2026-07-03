@@ -32,7 +32,7 @@ export default function Contact() {
           <div className="mt-8 space-y-5">
             {[
               [FiMapPin, "14 Race Course Lane, Coimbatore, TN"],
-              [FiPhone, "+91 98765 43210"],
+              [FiPhone, "+91 6381795174,+91 9344947519"],
               [FiMail, "hello@lavioncafe.com"],
               [FiInstagram, "@lavion.cafe"],
             ].map(([Icon, t]) => (
