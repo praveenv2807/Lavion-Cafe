@@ -5,6 +5,7 @@ http://lavion-cafe.netlify.app
 Premium, glassmorphic React coffee-shop site: espresso/caramel palette, animated
 "live" ambient background, and a working order + reservation flow ready to be
 wired to a real backend.
+this websited is deployed through netify platform to gain knowladge
 
 ## Run it
 
