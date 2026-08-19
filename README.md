@@ -6,7 +6,7 @@ Premium, glassmorphic React coffee-shop site: espresso/caramel palette, animated
 "live" ambient background, and a working order + reservation flow ready to be
 wired to a real backend.
 this websited is deployed through netify platform to gain knowladge.
-this webite also having add to list section so that buyers can easyly chooses their wished caffine.
+
 
 ## Run it
 
