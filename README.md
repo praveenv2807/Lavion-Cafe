@@ -1,6 +1,8 @@
 # Lavion cafe
 http://lavion-cafe.netlify.app
 
+This website is developed in netify deployement platform
+
 
 Premium, glassmorphic React coffee-shop site: espresso/caramel palette, animated
 "live" ambient background, and a working order + reservation flow ready to be
